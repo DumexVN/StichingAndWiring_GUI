@@ -1,5 +1,5 @@
 # StichingAndWiring_GUI
-A GUI program for Stitching and Wiring Problem i.e. Euler Tour || 'drawing without lifting pen' written in my MSc year
+A GUI program for Stitching and Wiring Problem i.e. Euler Tour || 'drawing without lifting pen' written during my MSc year
 
 # Problem description: construct the [shortest Eulerian-path] for any input graph G(V,E). 
 
